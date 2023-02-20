@@ -9,7 +9,3 @@ just double click on the .jar file.
 ## Credits
 
 This application was created during a course in the Geekepedia channel on Youtbe.
-
-## License
-
-GPL Version 1.0
