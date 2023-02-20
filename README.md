@@ -6,10 +6,10 @@ the years been working for the company.
 To run this application you have to download all the files and have installed a version of JRE. Once the files downloaded, 
 just double click on the .jar file.
 
-# Credits
+## Credits
 
 This application was created during a course in the Geekepedia channel on Youtbe.
 
-# License
+## License
 
 GPL Version 1.0
